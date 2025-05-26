@@ -11,6 +11,9 @@ An interactive sales dashboard built using **Tableau** and **MySQL**. This proje
 ## 📚 Purpose
 This project was created **for educational and learning purposes**, showcasing data visualization and dashboard design using real-world business scenarios.
 
+## 🌐 Live Dashboard
+View it here 👉 [Sales Insights Dashboard on Tableau Public](https://public.tableau.com/app/profile/krutika.diwathe/viz/Book1_17482374114900/Dashboard1?publish=yes)
+
 ## 📁 Files Included
 - `db_dump.sql` – SQL dump to recreate the sales database
 - `dashboard.png` – Screenshot of the Tableau dashboard
